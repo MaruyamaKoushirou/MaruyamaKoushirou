@@ -6,7 +6,7 @@ DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
 最近は基本private repoで作業してるので草が少ないです<br/>
 目新しいものが大好き!<br/>
 所属:<br/>
-[学生団体Kuroneko Server(APIバックエンド部門)](https://krnk.org/)<br/>
+[学生団体Kuroneko Server](https://krnk.org/)<br/>
 [株式会社kiei(SE Intern)](https://kiei-inc.jp/)<br/>
 
 経歴:<br/>
