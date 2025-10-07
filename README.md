@@ -9,33 +9,6 @@ DiscordのBOTやWEB制作、RAG開発、業務ソフトなどを作っていま�
 [株式会社kiei](https://kiei-inc.jp)<br/>
 [株式会社農情人(SE Intern)](https://noujoujin.com/)<br/>
 
-
-<p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaruyamaKoushirou&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=MaruyamaKoushirou&theme=onedark&show_icons=ture" />
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaruyamaKoushirou&theme=aura_dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaruyamaKoushirou&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-    
-</p>
-
-## Introduction
-### Hi! I'm Tanaka
-<h3>Skills</h3>
-<h4>Languages</h4>
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ffdc00.svg?logo=&style=plastic">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
-  <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-F7DF1E.svg?logo=javascript&style=plastic">
-  <img alt="C++" src="https://img.shields.io/badge/-++-0099E5.svg?logo=C&style=plastic">
-  <img alt="C#" src="https://img.shields.io/badge/-%EF%BC%83-0099E5.svg?logo=C&style=plastic">
-  <img alt="Go" src="https://img.shields.io/badge/-Go-0099E5.svg?logo=go&style=plastic"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-</p>
 <h4>Librarys</h4>
 <p>
 <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat">
