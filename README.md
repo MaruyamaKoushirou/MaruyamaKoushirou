@@ -7,10 +7,8 @@ DiscordのBOTやWEB制作、RAG開発、業務ソフトなどを作っていま�
 所属:<br/>
 [学生団体Kuroneko Server](https://krnk.org/)<br/>
 [株式会社kiei](https://kiei-inc.jp)
-
-経歴:<br/>
 [株式会社農情人(SE Intern)](https://noujoujin.com/)<br/>
-2025/03/21～2025/05/30
+
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaruyamaKoushirou&layout=compact&show_icons=true&theme=onedark" />
