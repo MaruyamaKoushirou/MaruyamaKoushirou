@@ -6,7 +6,7 @@ DiscordのBOTやWEB制作、RAG開発、業務ソフトなどを作っていま�
 目新しいものが大好き!<br/>
 所属:<br/>
 [学生団体Kuroneko Server](https://krnk.org/)<br/>
-[株式会社kiei](https://kiei-inc.jp)
+[株式会社kiei](https://kiei-inc.jp)<br/>
 [株式会社農情人(SE Intern)](https://noujoujin.com/)<br/>
 
 
