@@ -1,11 +1,12 @@
 ## About Me
 
-DiscordのBOTやWEB制作、業務ソフトなどを作っています。<br/>
-チーム開発では主にバックエンドを担当している大学生！<br/>
+DiscordのBOTやWEB制作、RAG開発、業務ソフトなどを作っています。<br/>
+チーム開発では主にバックエンド、クラウド保守を担当している大学生！<br/>
 最近はフルスタックでやっています！<br/>
 目新しいものが大好き!<br/>
 所属:<br/>
 [学生団体Kuroneko Server](https://krnk.org/)<br/>
+[株式会社kiei](https://kiei-inc.jp)
 
 経歴:<br/>
 [株式会社農情人(SE Intern)](https://noujoujin.com/)<br/>
